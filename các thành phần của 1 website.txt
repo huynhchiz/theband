@@ -1,0 +1,17 @@
+các bước làm 1 website:
+1. Phân tích website
+2. Dựng base (xây nền móng)
+3. Xây dựng từng phần theo phân tích
+4. Hoàn thiện
+
+những thành phần thường gặp trên giao diện website:
+1. Header (phần đầu trang)
+2. Navigation (phần điều hướng)
+3. Banner (ảnh bìa, ảnh quảng cáo...)
+4. Braedcrumb (phần chú thích chỉ cho người dùng biết đang ở đâu trong website)
+5. Sidebar (1 thanh công cụ - menu thường đặt ở 1 bên trái-phải của website)
+6. Slider (1 màn trình diễn 1 nội dung hiển thị - hình ảnh - video - chạy chạy)
+7. Content (phần nội dung chính - trung tâm website)
+8. Footer (phần cuối trang)
+
+

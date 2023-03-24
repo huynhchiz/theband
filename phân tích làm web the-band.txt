@@ -1,0 +1,15 @@
+the band
+1.header
+2.slider
+.content
+ -about
+ -tour
+ -contact
+ -image
+4.footer
+
+các bước css
+- vị trí (nằm ở đâu html)
+- kích thước (width, height)
+- màu sắc
+- kiểu dáng (kiểu chữ, hình tròn, vuông,...)

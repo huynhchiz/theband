@@ -1,0 +1,104 @@
+/* PC */
+@media (min-width: 64em) {
+   
+}
+
+/* TABLET & MOBILE */
+@media (max-width: 63.9375em) {
+    .btn {
+        padding: 15px 16px;/*nút bấm trên màn cảm ứng nên từ 42px trở lên*/
+    }
+
+    #nav .subnav a {
+        padding: 5px 12px;
+    }
+
+    .contact-infor {
+        line-height: 2;
+    }
+    
+    .contact-form .form-control {
+        padding: 15px;
+        font-size: 16px;
+    }
+
+    .contact-submit-btn {
+        font-size: 16px;
+    }
+
+    #footer .socials-list {
+        font-size: 42px;
+        letter-spacing: 14px;
+    }
+
+    #footer .copyright {
+        padding: 8px;
+        font-size: 32px;
+    }
+
+}
+
+/* TABLET */
+@media (max-width: 63.9375em) and (min-width: 46.25em){
+    
+}
+
+
+/* MOBILE */
+@media (max-width: 46.1875em) {
+    .s-col-full,
+    .s-full-width {
+        width: 100% !important;
+    }
+
+    .s-mt-8 {
+        margin-top: 8px !important;
+    }
+
+    #header .mobile-menu-btn {
+        display: block;
+    }
+
+    #header .search-btn {
+        display: none; /*ẩn nút search trên header*/
+    }
+
+    #header {
+        overflow: hidden; 
+        /*ẩn thẻ con thò ra khỏi kích thước thẻ cha*/
+    }
+
+    #nav {
+        display: block;
+    }
+
+    #nav > li {
+        display: block; /*đè thuộc tính dàn hàng ngang các thẻ li trên thanh nav, chuyển thành hàng dọc*/
+    }
+
+    #nav li a {
+        padding: 1px 24px;
+    }
+
+    #nav > li:first-child { /*chọn thẻ con đầu tiên trong #nav*/
+        display: inline-block;
+    }
+
+    #nav .subnav {
+        position: initial; /*position mặc định*/
+        background-color: #333;
+    }
+
+    #nav .subnav a {
+        color: #fff;
+        padding: 5px 41px;
+    }
+
+    #content .member-img  {
+        width: 65%;
+    }
+
+    #contact .contact-form {
+        margin-top: 32px;
+    }
+}
